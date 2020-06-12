@@ -1,0 +1,141 @@
+* {
+    margin: auto;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: block;
+    width: 375px;
+    height: 100%;
+
+    font-family: 'Karla', sans-serif;
+
+}
+
+/*header-text*/
+
+.header-text {
+    margin-top: 50px;
+    width: 100%;
+    height: 250px;
+    padding: 30px;
+
+    font-size: 16px;
+    color: darkgray;
+}
+
+.header-text h1 {
+    font-size: 18px;
+    color: #27b4b5;
+
+}
+
+.header-text h2 {
+    font-size: 18px;
+    color: #b4d285;
+
+}
+
+/*header-text*/
+
+/*section-sign*/
+.section-sign {
+    width: 100%;
+    height: 250px;
+    padding: 30px;
+
+    background-color: #16b7aa;
+    font-weight: 400;
+    color: white;
+}
+
+.section-sign button {
+    background-color: #afd544; /* Green */
+    border: none;
+
+    border-radius: 10px;
+
+    color: #ffffff;
+    padding: 15px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.section-sign a {
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+}
+
+.section-sign b {
+    color: #caccce6b;
+}
+
+.section-sign c {
+    color: #ffffff94;
+}
+
+.section-sign h1 {
+    font-weight: 700;
+    font-size: 16px;
+}
+/*section-sign*/
+
+
+/*footer-text*/
+
+.footer-text {
+    width: 100%;
+    height: 250px;
+    background-color: #42ccc1;
+    color: white;
+}
+
+.footer-text h1 {
+    font-size: 18px;
+}
+
+.tutorial{
+    font-size: 16px;
+
+    width: 263px;
+    height: 100%;
+    float: left;
+
+    padding: 25px;
+
+}
+
+
+
+
+/*footer-text*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
